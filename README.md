@@ -15,9 +15,9 @@ This app uses CRUD functionality.
 * Minimize the complexity of interoperability
 * Maximize data processing performance
 * Technology Futuristic-
-		* Fills gap from database to big-data
-		* Pluggable with new algorithms
-		* Pluggable with user defined API
+	* Fills gap from database to big-data
+	* Pluggable with new algorithms
+	* Pluggable with user defined API
 * Minimize total cost of ownership
 
 
